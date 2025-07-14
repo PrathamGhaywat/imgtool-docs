@@ -1,0 +1,19 @@
+site_name: imgtool
+site_description: A powerful and fast CLI tool for image processing.
+site_author: Pratham Ghaywat
+site_url: https://prathamghaywat.github.io/imgtool-docs/
+
+repo_url: https://github.com/PrathamGhaywat/imgtool
+repo_name: PrathamGhaywat/imgtool
+
+theme:
+  name: cinder
+
+nav:
+  - 'Home': 'index.md'
+  - 'Installation': 'installation.md'
+  - 'Usage':
+    - 'Getting Started': 'usage/getting-started.md'
+    - 'Convert Command': 'usage/convert.md'
+  - 'Features': 'features.md'
+  - 'Configuration': 'configuration.md'
